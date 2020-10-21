@@ -1,0 +1,1 @@
+[{"startDate": "2020-7", "certification_name": "Bloomberg Market Concepts", "licenseNumber": "159405079440", "authority": "Bloomberg LP", "company_name": "\u5f6d\u535a\u8d44\u8baf"}, {"startDate": "2020-6", "certification_name": "Learning VBA in Excel", "authority": "LinkedIn", "company_name": "LinkedIn"}]

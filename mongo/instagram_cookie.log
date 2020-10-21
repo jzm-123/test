@@ -1,0 +1,28 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "GET / HTTP/1.1" 200 45037
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "POST /accounts/login/ajax/ HTTP/1.1" 200 100
+DEBUG:root:cookie:
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "GET / HTTP/1.1" 200 45039
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "POST /accounts/login/ajax/ HTTP/1.1" 200 100
+DEBUG:root:cookie:
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "GET / HTTP/1.1" 200 45039
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "POST /accounts/login/ajax/ HTTP/1.1" 200 100
+DEBUG:root:cookie:
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): instagram.com:443
+DEBUG:urllib3.connectionpool:https://instagram.com:443 "GET /jaychou/ HTTP/1.1" 200 41874
+DEBUG:root:200
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.instagram.com:443
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "GET / HTTP/1.1" 200 45043
+DEBUG:urllib3.connectionpool:https://www.instagram.com:443 "POST /accounts/login/ajax/ HTTP/1.1" 200 100
+DEBUG:root:cookie:
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): instagram.com:443
+DEBUG:urllib3.connectionpool:https://instagram.com:443 "GET /jaychou/ HTTP/1.1" 200 41757
+DEBUG:root:200
